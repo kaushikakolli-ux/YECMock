@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "League Gothic", sans-serif;
+  --font-body: "IBM Plex Sans", sans-serif;
+}
+
+.font-display {
+  font-family: "League Gothic", sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.font-body {
+  font-family: "IBM Plex Sans", sans-serif;
+}
